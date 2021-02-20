@@ -56,7 +56,7 @@ const ProductFeatures = () => h(
         null,
         `You know the blockchain goes way beyond coins. Trust your results by saving to Ethereum. The past ${
           new Date().getFullYear() - 1960
-        } have shown centralized data has its place, but we've learned a lot since then.`
+        } years have shown centralized data has its place. Now's your chance to get reliable results you can trust using a modern solution.`,
       ),),
       h(
         "div",
