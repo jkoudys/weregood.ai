@@ -108,3 +108,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/btahir/gatsby-landing-page-starter)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+# weregood.ai
