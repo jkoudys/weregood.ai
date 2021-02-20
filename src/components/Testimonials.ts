@@ -80,7 +80,7 @@ const Testimonials = () =>
             {
               className: "testimonial-2-content",
             },
-            `So many "small" things that have ruined so many crypto startups. Now I can stop worrying and start working!`,
+            `So many "small" things have ruined crypto startups. Now I can stop worrying and start working!`,
           )
         )
       ),
